@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: react-app-template
+  description: Template criado pelo Backstage
+spec:
+  type: website
+  lifecycle: experimental
+  owner: ellis
