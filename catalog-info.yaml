@@ -4,6 +4,6 @@ metadata:
   name: react-app-template
   description: Template criado pelo Backstage
 spec:
-  type: website
+  type: service
   lifecycle: experimental
   owner: ellis
