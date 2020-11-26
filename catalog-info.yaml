@@ -5,6 +5,7 @@ metadata:
   description: Template criado pelo Backstage
   annotations:
     github.com/project-slug: elliscarvalho/react-app-template
+    lighthouse.com/website-url: http://www.passeidireto.com
 spec:
   type: service
   lifecycle: experimental
